@@ -26,6 +26,6 @@ $$实际利率 ≈ 名义利率 - 通货膨胀率$$
 ## 运行方法
 1. 克隆代码仓库
 ```bash
-git clone https://github.com/你的用户名/inflation-calc-skill.git
+git clone https://github.com/hubhub-257/inflation-calc-skill.git
 cd inflation-calc-skill
 
